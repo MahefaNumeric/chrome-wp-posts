@@ -1,0 +1,28 @@
+{
+   "author": "Mahefa Abel",
+   "browser_action": {
+      "default_icon": {
+         "128": "assets/Icon128.png",
+         "16": "assets/Icon16.png",
+         "32": "assets/Icon32.png",
+         "48": "assets/Icon48.png",
+         "64": "assets/Icon64.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "description": "Post to your wordpress blog with easily importing images and content from any web page in few clicks.",
+   "homepage_url": "https://mfyz.github.io/chrome-ext-wp-post/",
+   "icons": {
+      "128": "assets/Icon128.png",
+      "16": "assets/Icon16.png",
+      "32": "assets/Icon32.png",
+      "48": "assets/Icon48.png",
+      "64": "assets/Icon64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAocSVZOSYAzOUNUxsQAYi8+5lsgex1VqUJKlb6T+GDNMibosE8uVl8cSRcU1e4VvtuSQVD4iGtwV2rqmwWRRQvEWjL0htrEuCgXLppJrutqUhkSnbDTu3W/zGBkC4CAnmVAkjBIsh1cYIT+qAj+fIUUGYo1cLNLPI30Le4pctaofjJcpCNzrkzt40sTGHig45ZyIa12kMavPewJI54npYAmz5yHNGO8IoiI0HYdPLRIvcAGv8RS0yp/154SQjmqY5aRu0wH6KPi2HfA6OgChygAG3dWXvzhZLxgBTRZKMb7WAf7RArRkJRf4hKrQxDn7JXbpuiSUPEKlKphI8fZ3sYwIDAQAB",
+   "manifest_version": 2,
+   "name": "Post to Wordpress",
+   "permissions": [ "storage", "activeTab", "tabs", "*://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.2"
+}
