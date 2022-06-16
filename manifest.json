@@ -21,8 +21,8 @@
    },
    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAocSVZOSYAzOUNUxsQAYi8+5lsgex1VqUJKlb6T+GDNMibosE8uVl8cSRcU1e4VvtuSQVD4iGtwV2rqmwWRRQvEWjL0htrEuCgXLppJrutqUhkSnbDTu3W/zGBkC4CAnmVAkjBIsh1cYIT+qAj+fIUUGYo1cLNLPI30Le4pctaofjJcpCNzrkzt40sTGHig45ZyIa12kMavPewJI54npYAmz5yHNGO8IoiI0HYdPLRIvcAGv8RS0yp/154SQjmqY5aRu0wH6KPi2HfA6OgChygAG3dWXvzhZLxgBTRZKMb7WAf7RArRkJRf4hKrQxDn7JXbpuiSUPEKlKphI8fZ3sYwIDAQAB",
    "manifest_version": 2,
-   "name": "Post to Wordpress",
+   "name": "Post to Wordpress by Mahefa",
    "permissions": [ "storage", "activeTab", "tabs", "*://*/*" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "0.0.2"
+   "version": "0.0.1"
 }
